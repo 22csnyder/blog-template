@@ -1,3 +1,35 @@
+
+# Informatics Portfolio
+
+## 3 Phases of Coding Proficiency
+
+# Phase 1 (2012-2014) Learning the Basics
+
+Teaching myself how to code was the hardest thing I've done. That is because I had to learn it alone. I was isolated in a sea of medical trainees and professionals--on any island with no engineering school and no subscription to engineering journals. I fixed all of my own bugs. I decided every project direction. Surely, I hold the record for the most stackoverflow visits.
+
+The most important lesson I learned is that if you can't easily find your answer online as a beginner, then you are asking the wrong question (or trying to use the wrong tool). The path of beginners is well-trodden and every reasonable failure mode has an abundance of documentation. 
+
+That lesson was also the most costly. For weeks, I was trying to plot with gnuplot (C++ low level graphics tool) what can be done in python in one line. I thought: that is just the level of difficulty that coding is. I did not even know if I was doing a good job progressing. 
+
+Cinema was actually the only means of perspective I had as to what being able to code should look like. I literally thought, that was just how fast that experts go, as commands wizz by on a terminal. I tried to emulate that. I mastered vim in 2015. 
+
+Eventually I made progress. I wrote functional python scripts that processed nematode images with opencv. Later, 3D segmentation. I even figured out how to splice c++ mpi code into my python call to make the segmentation module fast enough to be interactive. 
+
+
+
+# Phase 2 (2015-2021)
+fancy school-boy tricks 
+
+
+# Phase 3 (2022 - 2024)
+
+Appreciation of maintence costs of code. 
+
+"Simplcity takes 
+
+
+
+
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
