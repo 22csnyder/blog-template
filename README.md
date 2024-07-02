@@ -25,8 +25,8 @@ fancy school-boy tricks
 
 Appreciation of maintence costs of code. 
 
-"Simplcity takes 
 
+![quote-simplicity-is-a-great-virtue-but-it-requires-hard-work-to-achieve-it-and-education-to-edsger-dijkstra-75-49-78](https://github.com/22csnyder/blog-template/assets/10726729/45d7ba2e-d171-4d83-9a6a-ea3ce5942be9)
 
 
 
