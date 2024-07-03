@@ -8,13 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Blog Template for Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Christopher Snyder"
+description              : &description "I am a pathology resident interested in informatics"
+url                      : https://22csnyder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/porfolio" # the subpath of your site, e.g. "/blog"
+# repository               : "academicpages/academicpages.github.io"
+repository               : "22csnyder/blog-template.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "C. Snyder" #"Your Sidebar Name"
+  pronouns         : "he/him"# example: "she/her"  
+  bio              : "...pursuing a career in medical informatics since 2008"#"Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Employer University"#"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : 22csnyder@gmail.com#"none@example.org"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
